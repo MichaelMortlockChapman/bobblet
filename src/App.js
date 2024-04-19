@@ -1,10 +1,9 @@
 import Board from './components/Board.js';
+import ThreeBoard from './components/ThreeBoard.js';
 
 function App() {
   return (
-    <div className="App">
-      <Board/>
-    </div>
+    <ThreeBoard/>
   );
 }
 
