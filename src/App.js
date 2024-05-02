@@ -1,9 +1,10 @@
-import Board from './components/Board.js';
-import ThreeBoard from './components/ThreeBoard.js';
+// import Board from './components/Board.js';
+import Board from "./components/THREE/Board.js";
 
 function App() {
   return (
-    <ThreeBoard/>
+    // <Board/>
+    <Board/>
   );
 }
 
